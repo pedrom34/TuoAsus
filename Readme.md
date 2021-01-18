@@ -493,3 +493,4 @@ Not being a computer specialist or network administrator, if I could do all this
 - 2018-09-11: use more than one DynDNS: [English 🇬🇧](Bonus/20180911-bonusEn-2+DNS.md), [Français 🇫🇷](Bonus/20180911-bonusFr-2+DNS.md)
 - 2018-09-18: setup nginx with symlinks: [English 🇬🇧](Bonus/20180918-bonusEn-symlinks.md), [Français 🇫🇷](Bonus/20180918-bonusFr-symlinks.md)
 - 2018-12-05: use logrotate to handle nginx logs: [English 🇬🇧](Bonus/20181205-bonusEn-logrotate.md), [Français 🇫🇷](Bonus/20181205-bonusFr-logrotate.md)
+- 2021-01-XX: A+ score with almost everything at 100% in SSLLabs: [English 🇬🇧](Bonus/202101XX-bonusEn-SSLLabs.md), [Français 🇫🇷](Bonus/202101XX-bonusFr-SSLLabs.md)
